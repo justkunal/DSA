@@ -23,7 +23,7 @@ int main() {
     }
     
     dp[1][1] = easy[1] ; //dp[][1]====easy 
-    dp[1][2] = hard[1] ; //dp[][2]=====hard
+    dp[1][2] = hard[1] ; //dp[][2]====hard
     dp[1][3] = 0 ; 
     
     i = 2 ; 
